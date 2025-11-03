@@ -1,0 +1,1 @@
+本项目是基于pytest+selenium搭建的web自动化框架
