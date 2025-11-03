@@ -1,1 +1,1 @@
-本项目是基于pytest+selenium搭建的web自动化框架
+本项目是基于pytest+selenium搭建的web自动化框架,实现了po封装，使用allure插件自动生成测试报告，采用log来管理日志
